@@ -1,0 +1,20 @@
+.blog{
+    border: 1px solid black;
+    width: 900px;
+    
+}
+
+h1{
+    padding: none;
+    margin: 10px;
+}
+
+p{
+    padding: 10px;
+}
+
+a{
+    padding: 10px;
+}
+
+
